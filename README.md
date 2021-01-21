@@ -13,4 +13,4 @@
 
 #### Languages and Tools
 
-<code><img href="(https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="20" width="40" alt="JavaScript"/></code>
+<code><img href="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="20" width="40" alt="JavaScript"/></code>
