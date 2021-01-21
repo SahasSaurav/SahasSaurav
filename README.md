@@ -1,12 +1,13 @@
 
 ![alt text](https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/hello.svg)
+<br>
 
 ### Hi , I'm Sahas. I'm Js enthusiast self taught frontend Web developer.
 
 - 🔭 I’m currently working on [Offline compatibility with Service Worker](https://github.com/SahasSaurav/next_pomodoro/blob/main/public/sw.js)
 - 🌱 I’m currently learning Wasm, PWA , Next Js
 
-
+<br>
 
 📫 How to reach me: 
 
