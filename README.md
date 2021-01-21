@@ -12,5 +12,5 @@
 -->
 
 #### Languages and Tools
-<Code>
-![alt text](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png "JavaScript")
+
+<code><img href="(https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="20" width="40" alt="JavaScript"/></code>
