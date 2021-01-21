@@ -13,4 +13,4 @@
 
 #### Languages and Tools
 <Code>
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png "JavaScript")
