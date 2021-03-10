@@ -14,16 +14,27 @@
 <br>
 
 #### Languages and Tools
-<code><img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/HTML5_logo_and_wordmark.svg" height="50" width="40" alt="HTML" /></code>
-<code><img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/kisspng-web-development-cascading-style-sheets-css3-comput-css-5ada20be5eed10.7390827615242446703888.png" height="40" width="36" alt="CSS" /></code>
-<code><img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/1024px-Sass_Logo_Color.svg.png" height="35" width="45" alt="Scss" /></code>
-<code><img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/JavaScript-logo.png" height="35" width="30" alt="JavaScript" /></code>
-<code><img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/1280px-React-icon.svg.png" height="40" width="40" alt="React" /></code>
-<code><img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/nextjs-logo.png" height="40" width="50" alt="Next.Js" /></code>
-<code><img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/1280px-Node.js_logo.svg.png" height="40" width="45" alt="Node Js" /></code>
-<code><img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/1_mn6bOs7s6Qbao15PMNRyOA.png" height="40" width="35" alt="Typescript" /></code>
-   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
  <br>
 
-   
-![alt text](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahasSaurav&layout=compact&theme=material-palenight)
+Stats
+<img src="https://github-readme-stats.vercel.app/api?username=SahasSaurav&show_icons=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahasSaurav"/> 
