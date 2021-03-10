@@ -35,6 +35,6 @@
 
  <br>
 
-####Stats
-<br/>![alt text](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahasSaurav&layout=compact&theme=material-palenight)<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahasSaurav"/> 
+#### Stats
+| <img src='https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahasSaurav&layout=compact&theme=material-palenight' /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahasSaurav"/>
+|:------------:|:------------:|
