@@ -10,7 +10,6 @@
 
 <br>
 
-📫 How to reach me: 
 
 <br>
 
