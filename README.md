@@ -36,5 +36,7 @@
  <br>
 
 #### Stats
-| <img src='https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahasSaurav&layout=compact&theme=tokyonight' /> | <img src="https://github-readme-stats.vercel.app/api?username=SahasSaurav&show_icons=true&theme=tokyonight"/> | <img sec="https://github-readme-streak-stats.herokuapp.com/?user=SahasSaurav&show_icons=true&theme=tokyonight" />
-|:------------:|:------------:|
+| | |
+| :--: | :--: |
+| <img src='https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahasSaurav&layout=compact&theme=tokyonight' /> | <img src="https://github-readme-stats.vercel.app/api?username=SahasSaurav&show_icons=true&theme=tokyonight"/> |
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahasSaurav&show_icons=true&theme=tokyonight" /> |
