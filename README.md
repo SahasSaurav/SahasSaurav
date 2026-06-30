@@ -1,109 +1,111 @@
+<p align="center">
+  <img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/hello.svg" width="500px" alt="Hello Banner">
+</p>
 
-<img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/hello.svg" height="500px">
+<h1 align="center">Hi 👋, I'm Sahas Saurav</h1>
 
-<div align="center">
+<h3 align="center">
+Full Stack AI Software Engineer @ Razorpay
+</h3>
 
-# Hi 👋, I'm Sahas Saurav
+<p align="center">
+Building scalable distributed systems, AI-powered developer tools, and cloud-native applications.
+</p>
 
-### Full Stack AI Software Engineer @ Razorpay
-
-Building scalable distributed systems, AI-powered developer tools, and high-performance backend services.
-
-[LinkedIn](https://linkedin.com/in/sahas-saurav) •
-[Portfolio](https://github.com/SahasSaurav) •
-Email: sahas.saurav17@gmail.com
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/sahas-saurav">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/SahasSaurav">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:sahas.saurav17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💼 Full Stack AI Software Engineer at **Razorpay**
-- ⚡ ~5 years of experience building production-scale systems
-- 🏗️ Working on Distributed Systems, FinTech Infrastructure & AI
-- 🌍 Built multi-region services serving India, Singapore, Malaysia and US
-- 🤖 Exploring AI Agents using LangGraph, LangChain & OpenAI
-- ☁️ Interested in Cloud Native Architecture, Kubernetes and Event Driven Systems
+- ⚡ ~5 years building production-scale distributed systems
+- 🏗️ Working on FinTech Infrastructure, AI & Microservices
+- 🌍 Built services deployed across India, Singapore, Malaysia & US
+- 🤖 Exploring AI Agents with LangGraph, LangChain & OpenAI
+- ☁️ Passionate about Kubernetes, Event-Driven Architecture & Cloud Native systems
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+### Languages & Frameworks
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,react,nextjs,postgres,mongodb,redis,kafka,docker,kubernetes,aws,git,graphql" />
 </p>
 
 ### AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+LangChain • LangGraph • OpenAI API • Claude Code • MCP • AI Agents • Skills 
 </p>
-
-- LangChain
-- LangGraph
-- OpenAI API
-- Claude Code
-- MCP
-- AI Agents
 
 ---
 
-## 🏆 Highlights
+# 🏆 Highlights
 
 - 🚀 Migrated **80% production traffic** from monolith to Go microservice
 - ⚡ Built CDC-based asynchronous financial settlement pipeline
-- 🌏 Delivered multi-geo deployment across US & Singapore
+- 🌏 Delivered multi-region deployments across US & Singapore
 - 🤖 Built AI-powered merchant onboarding reducing onboarding from weeks to minutes
-- 🔥 Created Go DevStack Hot Reload developer tooling adopted across Razorpay repositories
+- 🔥 Created Go DevStack Hot Reload adopted across Razorpay repositories
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - AI Agents
 - MCP
 - Distributed Systems
-- eBPF
 - Kubernetes Internals
 - LLM Infrastructure
-- Rust
 
 ---
 
-## 📌 Featured Projects
-
-- 🤖 AI Developer Tooling
-- ⚡ Distributed Backend Systems
-- 🌐 Next.js Applications
-- 📦 Open Source Utilities
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SahasSaurav&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahasSaurav&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SahasSaurav&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahasSaurav&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahasSaurav&theme=tokyonight"/>
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=SahasSaurav&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect
+# 📈 Contribution Graph
 
-- LinkedIn: https://linkedin.com/in/sahas-saurav
-- GitHub: https://github.com/SahasSaurav
-- Email: sahas.saurav17@gmail.com
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahasSaurav&theme=tokyo-night"/>
+</p>
 
 ---
 
-> *"Building software that scales from thousands to millions of users."*
+# 📫 Connect
+
+<p align="center">
+
+[LinkedIn](https://linkedin.com/in/sahas-saurav) •
+[GitHub](https://github.com/SahasSaurav) •
+Email: **sahas.saurav17@gmail.com**
+
+</p>
+
+---
+
+<p align="center">
+<i>"Building software that scales from thousands to millions of users."</i>
+</p>
