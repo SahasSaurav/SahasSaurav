@@ -1,42 +1,109 @@
 
 <img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/hello.svg" height="500px">
 
-<br>
+<div align="center">
 
-### Hi , I'm Sahas. I'm Js enthusiast self taught frontend Web developer.
+# Hi 👋, I'm Sahas Saurav
 
-- I’m currently working on [Offline compatibility with Service Worker](https://github.com/SahasSaurav/next_pomodoro/blob/main/public/sw.js)
-- Currently looking for frontend developer role 
-- I’m currently learning  PWA , GraphQl , Web Socket  and Redis 
+### Full Stack AI Software Engineer @ Razorpay
 
-<br>
+Building scalable distributed systems, AI-powered developer tools, and high-performance backend services.
 
+[LinkedIn](https://linkedin.com/in/sahas-saurav) •
+[Portfolio](https://github.com/SahasSaurav) •
+Email: sahas.saurav17@gmail.com
 
-<br>
+</div>
 
-#### Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/tailwindcss.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/next-js.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+---
 
-#### Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/graphql.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## 🚀 About Me
 
- <br>
+- 💼 Full Stack AI Software Engineer at **Razorpay**
+- ⚡ ~5 years of experience building production-scale systems
+- 🏗️ Working on Distributed Systems, FinTech Infrastructure & AI
+- 🌍 Built multi-region services serving India, Singapore, Malaysia and US
+- 🤖 Exploring AI Agents using LangGraph, LangChain & OpenAI
+- ☁️ Interested in Cloud Native Architecture, Kubernetes and Event Driven Systems
 
-#### Stats
-| | |
-| :--: | :--: |
-| <img src='https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahasSaurav&layout=compact&theme=tokyonight' /> | <img src="https://github-readme-stats.vercel.app/api?username=SahasSaurav&show_icons=true&theme=tokyonight"/> |
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahasSaurav&show_icons=true&theme=tokyonight" /> |
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,react,nextjs,postgres,mongodb,redis,kafka,docker,kubernetes,aws,git,graphql" />
+</p>
+
+### AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- LangChain
+- LangGraph
+- OpenAI API
+- Claude Code
+- MCP
+- AI Agents
+
+---
+
+## 🏆 Highlights
+
+- 🚀 Migrated **80% production traffic** from monolith to Go microservice
+- ⚡ Built CDC-based asynchronous financial settlement pipeline
+- 🌏 Delivered multi-geo deployment across US & Singapore
+- 🤖 Built AI-powered merchant onboarding reducing onboarding from weeks to minutes
+- 🔥 Created Go DevStack Hot Reload developer tooling adopted across Razorpay repositories
+
+---
+
+## 🌱 Currently Learning
+
+- AI Agents
+- MCP
+- Distributed Systems
+- eBPF
+- Kubernetes Internals
+- LLM Infrastructure
+- Rust
+
+---
+
+## 📌 Featured Projects
+
+- 🤖 AI Developer Tooling
+- ⚡ Distributed Backend Systems
+- 🌐 Next.js Applications
+- 📦 Open Source Utilities
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SahasSaurav&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahasSaurav&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SahasSaurav&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/sahas-saurav
+- GitHub: https://github.com/SahasSaurav
+- Email: sahas.saurav17@gmail.com
+
+---
+
+> *"Building software that scales from thousands to millions of users."*
