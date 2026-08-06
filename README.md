@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/SahasSaurav/SahasSaurav/blob/main/assets/hello.svg" width="500px" alt="Hello Banner">
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Sahas Saurav</h1>
 
