@@ -80,8 +80,6 @@ Contributing to the **LangChain** ecosystem — docs, examples, and core package
 </p>
 
 - 📚 **[langchain-ai/docs #6239](https://github.com/langchain-ai/docs/pull/6239)** *(merged)* — Migrated TypeScript Google examples to `@langchain/google` across the docs (`+378 / -243`)
-- 🧪 **[langchain-ai/docs #6243](https://github.com/langchain-ai/docs/pull/6243)** — Support maintainer-requested previews for fork PRs, improving the docs contribution workflow (`+253`)
-- 🔧 **[langchain-ai/langchainjs #11763](https://github.com/langchain-ai/langchainjs/pull/11763)** — Made `pgvector` `buildFilterClauses` protected and added warnings for untranslated filters (`+761 / -11`)
 
 ---
 
