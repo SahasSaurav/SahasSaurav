@@ -65,17 +65,11 @@ LangChain • LangGraph • OpenAI API • Claude Code • MCP • AI Agents •
 
 # 🌍 Open Source
 
-Contributing to the **LangChain** ecosystem — docs, examples, and core packages.
+Merged contributions to the **LangChain** documentation.
 
 <p align="center">
   <a href="https://github.com/langchain-ai/docs/pull/6239">
     <img src="https://img.shields.io/badge/langchain--ai%2Fdocs-Merged-brightgreen?style=flat-square&logo=github" />
-  </a>
-  <a href="https://github.com/langchain-ai/docs/pull/6243">
-    <img src="https://img.shields.io/badge/langchain--ai%2Fdocs-PR-blue?style=flat-square&logo=github" />
-  </a>
-  <a href="https://github.com/langchain-ai/langchainjs/pull/11763">
-    <img src="https://img.shields.io/badge/langchain--ai%2Flangchainjs-PR-blue?style=flat-square&logo=github" />
   </a>
 </p>
 
@@ -109,7 +103,7 @@ Contributing to the **LangChain** ecosystem — docs, examples, and core package
 # 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/7aa2f7/SahasSaurav" alt="Sahas Saurav's GitHub contribution graph" />
+  <img width="100%" src="https://ghchart.rshah.org/39d353/SahasSaurav" alt="Sahas Saurav's GitHub contribution graph" />
 </p>
 
 ---
